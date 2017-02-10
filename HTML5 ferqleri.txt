@@ -1,0 +1,5 @@
+HTML5 diger versiyalardan ferqleri:
+- yeni taglar elave olunub 
+ - bezi taglerde sintaktik deyisiklikler 
+  - bezi tagler de HTML5de deskteklenmir
+//tay taglari copy paste elemirem  
